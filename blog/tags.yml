@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+frontend:
+  label: Frontend
+  permalink: /frontend
+  description: Frontend tag description
+
+backend:
+  label: Backend
+  permalink: /backend
+  description: Backend tag description
