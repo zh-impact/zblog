@@ -27,3 +27,28 @@ backend:
   label: Backend
   permalink: /backend
   description: Backend tag description
+
+css:
+  label: CSS
+  permalink: /css
+  description: CSS tag description
+
+styled-components:
+  label: Styled Components
+  permalink: /styled-components
+  description: Styled Components tag description
+
+shell:
+  label: Shell
+  permalink: /shell
+  description: Shell tag description
+
+ai:
+  label: AI
+  permalink: /ai
+  description: AI tag description
+
+nextjs:
+  label: Next.js
+  permalink: /nextjs
+  description: Next.js tag description
