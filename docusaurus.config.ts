@@ -139,6 +139,17 @@ const config: Config = {
               label: '粤ICP备2026028328号',
               href: 'https://beian.miit.gov.cn/',
             },
+            {
+              html: `
+              <a href="https://beian.mps.gov.cn/#/query/webSearch?code=44010602015409" rel="noopener noreferrer" target="_blank" class="footer__link-item">
+                <img src="/img/beian.png" alt="备案图标" width="16" height="17" style="vertical-align: middle; margin-right: 5px;" />
+                粤公网安备44010602015409号
+                <svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_vBqA">
+                  <use href="#theme-svg-external-link"></use>
+                </svg>
+              </a>
+              `,
+            },
           ],
         },
       ],
